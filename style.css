@@ -1,0 +1,28 @@
+body
+{
+    color:rgb(94, 3, 240);
+    text-align: center;
+    background: linear-gradient(purple 0%,violet 100%);
+    border:7px rgb(235, 17, 144) ridge ;
+    
+
+}
+img {
+    width: 450px;
+    height: 450px;
+    border: 10px magenta ridge;
+  }
+  .image-section {
+      /* Correct the display value as flex */
+      display: flex;
+      /* Correct the justify-content value as center */
+      justify-content: center;
+  }
+  .section-style {
+
+/* Correct the name of the properties to margin-right and margin-left */
+margin-right: 25px;
+margin-left: 25px;
+/* Correct the name of the properties to background-color */
+text-align: center;
+  }
